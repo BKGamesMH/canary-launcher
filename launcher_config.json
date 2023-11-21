@@ -9,6 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
+	"clientVersion": "13.21.13839",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -22,4 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
+	"clientFolder": "",
+	"newClientUrl": "https://github.com/BKGamesMH/mh-ots.git",
+	"clientExecutable": "mh-ot.exe"
 }
