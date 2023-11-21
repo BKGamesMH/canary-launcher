@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "",
+	"clientFolder": "mh-ots",
 	"newClientUrl": "https://github.com/BKGamesMH/mh-ots.git",
-	"clientExecutable": "mh-ot.exe"
+	"clientExecutable": "bin/mh-ot.exe"
 }
