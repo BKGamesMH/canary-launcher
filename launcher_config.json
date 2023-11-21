@@ -19,8 +19,4 @@
 	"newClientUrl": "https://github.com/BKGamesMH/mh-ots.git",
 	"clientExecutable": "mh-ot.exe"
 
-	"clientFolder": "mh-ots",
-	"newClientUrl": "https://github.com/BKGamesMH/mh-ots.git",
-	"clientExecutable": "bin/mh-ot.exe"
-
 }
