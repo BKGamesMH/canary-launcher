@@ -16,7 +16,7 @@
 	],
 
 	"clientFolder": "",
-	"newClientUrl": "https://github.com/BKGamesMH/mh-ots.git",
+	"newClientUrl": "https://github.com/BKGamesMH/canary-launcher/releases/download/update/mhot-launcher-main.zip",
 	"clientExecutable": "mh-ot.exe"
 
 }
