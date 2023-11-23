@@ -16,7 +16,7 @@
 	],
 
 	"clientFolder": "tibia-client-13.21",
-	"newClientUrl": "https://github.com/BKGamesMH/canary-launcher/releases/download/update/mhot-launcher-main.zip",
+	"newClientUrl": "https://github.com/BKGamesMH/canary-launcher/releases/download/1.0.0/mhot-client-13.21.zip",
 	"clientExecutable": "bin/mh-ot.exe"
 
 }
